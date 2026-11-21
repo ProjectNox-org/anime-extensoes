@@ -4754,17 +4754,17 @@
   {
     "name": "Aniyomi: RedeToons",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.redetoons",
-    "apk": "aniyomi-pt.redetoons-v14.5.apk",
+    "apk": "aniyomi-pt.redetoons-v16.6.apk",
     "lang": "pt-BR",
-    "code": 5,
-    "version": "14.5",
+    "code": 6,
+    "version": "16.6",
     "nsfw": 0,
     "sources": [
       {
         "name": "RedeToons",
         "lang": "pt-BR",
         "id": "5791416117185453153",
-        "baseUrl": "https://redetoons.my",
+        "baseUrl": "https://redetoons.li",
         "versionId": 1
       }
     ]
