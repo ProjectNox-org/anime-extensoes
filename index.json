@@ -4520,17 +4520,17 @@
   {
     "name": "Aniyomi: CineVEO",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.cineveo",
-    "apk": "aniyomi-pt.cineveo-v14.4.apk",
+    "apk": "aniyomi-pt.cineveo-v14.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "14.4",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 0,
     "sources": [
       {
         "name": "CineVEO",
         "lang": "pt-BR",
         "id": "3173506291335936780",
-        "baseUrl": "https://cineveo20.lat",
+        "baseUrl": "https://cineveo.cfd",
         "versionId": 1
       }
     ]
