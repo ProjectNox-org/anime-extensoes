@@ -4520,10 +4520,10 @@
   {
     "name": "Aniyomi: CineVEO",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.cineveo",
-    "apk": "aniyomi-pt.cineveo-v14.5.apk",
+    "apk": "aniyomi-pt.cineveo-v16.6.apk",
     "lang": "pt-BR",
-    "code": 5,
-    "version": "14.5",
+    "code": 6,
+    "version": "16.6",
     "nsfw": 0,
     "sources": [
       {
