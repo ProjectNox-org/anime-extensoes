@@ -4896,6 +4896,24 @@
     ]
   },
   {
+    "name": "Aniyomi: WatchAnimeHentai",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.watchanimehentai",
+    "apk": "aniyomi-pt.watchanimehentai-v16.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "WatchAnimeHentai",
+        "lang": "pt-BR",
+        "id": "6750099139215346288",
+        "baseUrl": "https://www.watchanimehentai.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: YUMEFREE",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.yumefree",
     "apk": "aniyomi-pt.yumefree-v14.8.apk",
