@@ -2101,10 +2101,10 @@
   {
     "name": "Aniyomi: MoviesMod",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.moviesmod",
-    "apk": "aniyomi-en.moviesmod-v16.10.apk",
+    "apk": "aniyomi-en.moviesmod-v16.12.apk",
     "lang": "en",
-    "code": 10,
-    "version": "16.10",
+    "code": 12,
+    "version": "16.12",
     "nsfw": 0,
     "sources": [
       {
@@ -2263,17 +2263,17 @@
   {
     "name": "Aniyomi: UHD Movies",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.uhdmovies",
-    "apk": "aniyomi-en.uhdmovies-v14.24.apk",
+    "apk": "aniyomi-en.uhdmovies-v16.26.apk",
     "lang": "en",
-    "code": 24,
-    "version": "14.24",
+    "code": 26,
+    "version": "16.26",
     "nsfw": 0,
     "sources": [
       {
         "name": "UHD Movies",
         "lang": "en",
         "id": "582068848290425167",
-        "baseUrl": "https://uhdmovies.vip",
+        "baseUrl": "https://uhdmovies.ceo",
         "versionId": 1
       }
     ]
