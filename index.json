@@ -4196,10 +4196,10 @@
   {
     "name": "Aniyomi: AnimeQ",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeq",
-    "apk": "aniyomi-pt.animeq-v14.16.apk",
+    "apk": "aniyomi-pt.animeq-v14.17.apk",
     "lang": "pt-BR",
-    "code": 16,
-    "version": "14.16",
+    "code": 17,
+    "version": "14.17",
     "nsfw": 1,
     "sources": [
       {
@@ -4322,10 +4322,10 @@
   {
     "name": "Aniyomi: Animes Online CC",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonlinecc",
-    "apk": "aniyomi-pt.animesonlinecc-v14.8.apk",
+    "apk": "aniyomi-pt.animesonlinecc-v14.9.apk",
     "lang": "pt-BR",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 1,
     "sources": [
       {
@@ -4340,10 +4340,10 @@
   {
     "name": "Aniyomi: AnimesOnlineCloud",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonlinecloud",
-    "apk": "aniyomi-pt.animesonlinecloud-v14.16.apk",
+    "apk": "aniyomi-pt.animesonlinecloud-v14.17.apk",
     "lang": "pt-BR",
-    "code": 16,
-    "version": "14.16",
+    "code": 17,
+    "version": "14.17",
     "nsfw": 1,
     "sources": [
       {
@@ -4448,11 +4448,11 @@
   {
     "name": "Aniyomi: Anitube",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.anitube",
-    "apk": "aniyomi-pt.anitube-v14.31.apk",
+    "apk": "aniyomi-pt.anitube-v14.33.apk",
     "lang": "pt-BR",
-    "code": 31,
-    "version": "14.31",
-    "nsfw": 0,
+    "code": 33,
+    "version": "14.33",
+    "nsfw": 1,
     "sources": [
       {
         "name": "Anitube",
@@ -4502,10 +4502,10 @@
   {
     "name": "Aniyomi: BetterAnimeIo",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.betteranimeio",
-    "apk": "aniyomi-pt.betteranimeio-v14.6.apk",
+    "apk": "aniyomi-pt.betteranimeio-v14.7.apk",
     "lang": "pt-BR",
-    "code": 6,
-    "version": "14.6",
+    "code": 7,
+    "version": "14.7",
     "nsfw": 0,
     "sources": [
       {
@@ -4574,10 +4574,10 @@
   {
     "name": "Aniyomi: Donghua no Sekai",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.donghuanosekai",
-    "apk": "aniyomi-pt.donghuanosekai-v14.4.apk",
+    "apk": "aniyomi-pt.donghuanosekai-v14.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "14.4",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 0,
     "sources": [
       {
@@ -4592,10 +4592,10 @@
   {
     "name": "Aniyomi: Doramogo",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.doramogo",
-    "apk": "aniyomi-pt.doramogo-v14.22.apk",
+    "apk": "aniyomi-pt.doramogo-v14.23.apk",
     "lang": "pt-BR",
-    "code": 22,
-    "version": "14.22",
+    "code": 23,
+    "version": "14.23",
     "nsfw": 0,
     "sources": [
       {
@@ -4610,17 +4610,17 @@
   {
     "name": "Aniyomi: Fun Anime TV",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.funanimetv",
-    "apk": "aniyomi-pt.funanimetv-v14.4.apk",
+    "apk": "aniyomi-pt.funanimetv-v14.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "14.4",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 0,
     "sources": [
       {
         "name": "Fun Anime TV",
         "lang": "pt-BR",
         "id": "7920607630206318931",
-        "baseUrl": "https://funanimetv.cyou",
+        "baseUrl": "https://betterclass.click",
         "versionId": 1
       }
     ]
@@ -4628,10 +4628,10 @@
   {
     "name": "Aniyomi: Goyabu",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.goyabu",
-    "apk": "aniyomi-pt.goyabu-v14.8.apk",
+    "apk": "aniyomi-pt.goyabu-v14.9.apk",
     "lang": "pt-BR",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 1,
     "sources": [
       {
@@ -4646,10 +4646,10 @@
   {
     "name": "Aniyomi: Meus Animes",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.meusanimes",
-    "apk": "aniyomi-pt.meusanimes-v14.7.apk",
+    "apk": "aniyomi-pt.meusanimes-v14.8.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "14.7",
+    "code": 8,
+    "version": "14.8",
     "nsfw": 1,
     "sources": [
       {
@@ -4664,10 +4664,10 @@
   {
     "name": "Aniyomi: Muito Hentai",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.muitohentai",
-    "apk": "aniyomi-pt.muitohentai-v14.4.apk",
+    "apk": "aniyomi-pt.muitohentai-v14.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "14.4",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 1,
     "sources": [
       {
@@ -4700,10 +4700,10 @@
   {
     "name": "Aniyomi: Pi Fansubs",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.pifansubs",
-    "apk": "aniyomi-pt.pifansubs-v14.41.apk",
+    "apk": "aniyomi-pt.pifansubs-v14.42.apk",
     "lang": "pt-BR",
-    "code": 41,
-    "version": "14.41",
+    "code": 42,
+    "version": "14.42",
     "nsfw": 1,
     "sources": [
       {
@@ -4808,10 +4808,10 @@
   {
     "name": "Aniyomi: SmartAnimes",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.smartanimes",
-    "apk": "aniyomi-pt.smartanimes-v14.10.apk",
+    "apk": "aniyomi-pt.smartanimes-v14.11.apk",
     "lang": "pt-BR",
-    "code": 10,
-    "version": "14.10",
+    "code": 11,
+    "version": "14.11",
     "nsfw": 1,
     "sources": [
       {
@@ -4862,10 +4862,10 @@
   {
     "name": "Aniyomi: SushiAnimes",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.sushianimes",
-    "apk": "aniyomi-pt.sushianimes-v14.4.apk",
+    "apk": "aniyomi-pt.sushianimes-v14.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "14.4",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 1,
     "sources": [
       {
