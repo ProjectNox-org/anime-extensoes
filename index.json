@@ -4104,21 +4104,21 @@
   {
     "name": "Aniyomi: AnimeUnity",
     "pkg": "eu.kanade.tachiyomi.animeextension.it.animeunity",
-    "apk": "aniyomi-it.animeunity-v14.10.apk",
+    "apk": "aniyomi-it.animeunity-v16.11.apk",
     "lang": "it",
-    "code": 10,
-    "version": "14.10",
+    "code": 11,
+    "version": "16.11",
     "nsfw": 0,
+    "contentWarning": "SAFE",
     "sources": [
       {
         "name": "AnimeUnity",
         "lang": "it",
         "id": "7762808921754601430",
-        "baseUrl": "https://www.animeunity.so",
+        "baseUrl": "https://animeunity.cx",
         "versionId": 1
       }
-    ],
-    "contentWarning": "SAFE"
+    ]
   },
   {
     "name": "Aniyomi: ANIMEWORLD.tv",
