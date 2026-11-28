@@ -4465,11 +4465,12 @@
   {
     "name": "Aniyomi: AnimesFHD",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesfhd",
-    "apk": "aniyomi-pt.animesfhd-v16.1.apk",
+    "apk": "aniyomi-pt.animesfhd-v16.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "16.1",
+    "code": 2,
+    "version": "16.2",
     "nsfw": 0,
+    "contentWarning": "SAFE",
     "sources": [
       {
         "name": "AnimesFHD",
@@ -4478,8 +4479,7 @@
         "baseUrl": "https://animesfhd.net",
         "versionId": 1
       }
-    ],
-    "contentWarning": "SAFE"
+    ]
   },
   {
     "name": "Aniyomi: TopAnimes",
